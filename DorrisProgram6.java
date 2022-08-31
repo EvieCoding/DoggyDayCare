@@ -1,9 +1,3 @@
-//Evelyn Dorris
-//CITC 1314-N40
-//Assignment 3
-//4/4/2022
-//Create a program taking in all the dog information using the dog class.
-
 import java.util.Scanner; // Needed for the Scanner class
 import java.io.*;
 import java.text.SimpleDateFormat; // Needed for date
