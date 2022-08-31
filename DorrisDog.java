@@ -1,9 +1,3 @@
-//Evelyn Dorris
-//CITC 1314-N40
-//Assignment 3
-//3-29-2022
-//Create a class that will take in info about dogs for a doggy daycare.
-
 public class DorrisDog
 {
 	private String dogName,
