@@ -63,7 +63,7 @@ public class DorrisProgram6
 					pupAge = input.nextFloat();
 
 					//Input validation for age
-					if (pupAge <= 0.0)
+					while (pupAge <= 0.0)
 					{
 						System.out.print("\n");
 						System.out.print("Age must be greater than 0.\n");
@@ -75,7 +75,7 @@ public class DorrisProgram6
 					pupWeight = input.nextFloat();
 
 					//Input validation for weight
-					if (pupWeight <= 0.0)
+					while (pupWeight <= 0.0)
 					{
 						System.out.print("\n");
 						System.out.print("Weight must be greater than 0.\n");
